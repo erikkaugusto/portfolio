@@ -24,7 +24,6 @@ body {
     border-radius: 8px;
 }
 
-
 .user-info img {
     width: 100px;
     height: 100px;
@@ -34,12 +33,10 @@ body {
     margin-bottom: 10px;
 }
 
-
 .user-info h1 {
     font-size: 1.5rem;
     color: #0078d4;
 }
-
 
 .contacts {
     display: flex;
@@ -47,19 +44,16 @@ body {
     gap: 6px;
 }
 
-
 .contacts a {
     text-decoration: none;
     color: #0078d4;
 }
-
 
 .skills {
     display: flex;
     flex-direction: column;
     gap: 16px;
 }
-
 
 .main-content {
     margin-left: 20px;
@@ -73,7 +67,6 @@ body {
     gap: 20px;
 }
 
-
 .experience, .project {
     background-color: #1a1a1a;
     padding: 15px;
@@ -82,14 +75,12 @@ body {
     margin-bottom: 20px;  
 }
 
-
 .experience h3, .project h3 {
     font-size: 1.2rem;
     margin-bottom: 10px;
     line-height: 1.4;
     color: #0078d4;
 }
-
 
 .project a {
     text-decoration: none;
