@@ -6,13 +6,11 @@ body {
     color: #fff;
 }
 
-
 .container {
     display: flex;
     align-items: center;
     margin: 20px;
 }
-
 
 .sidebar {
     width: 300px;
